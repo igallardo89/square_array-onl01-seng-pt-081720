@@ -1,3 +1,8 @@
-def square_array(array)
-  # your code here
+array = [1,2,3]
+
+def square_array(array) 
+  
+  array.each
+  
+
 end
