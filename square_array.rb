@@ -10,6 +10,3 @@ puts new_numbers
 
 end
 
-def square
-    self.map! {|num| num ** 2}
-  end
